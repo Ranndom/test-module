@@ -1,0 +1,6 @@
+{
+  "name": "test-module",
+  "version": "1.0.0",
+  "targetVersion": "0.0.1",
+  "main": "main.js"
+}
